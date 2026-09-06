@@ -1,0 +1,6 @@
+{
+  "name": "Course Library",
+  "description": "A minimal course selling library featuring 100+ courses for 500 ETB with instant access and catalog browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
